@@ -18,6 +18,6 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/My_Oracle/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Alvaro/.m2/repository/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Alvaro/.m2/repository/com/jcraft/jsch/0.1.53/jsch-0.1.53.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Alvaro/.m2/repository/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
